@@ -1,0 +1,33 @@
+﻿목표품목,매칭키워드,파일,행,열,실제셀내용,MTI코드후보,매칭점수
+반도체,반도체,KITA_MTI3_CORE_MONTHLY.xls,2,2,반도체 (831),831,100
+반도체,반도체,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,6,2,기타 메모리반도체,,80
+반도체,반도체,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,16,2,기타 집적회로반도체,,80
+디스플레이,디스플레이,KITA_MTI3_CORE_MONTHLY.xls,2,14,평판디스플레이 및 센서 (837),837,100
+디스플레이,OLED,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,15,2,OLED,,30
+무선통신기기,무선통신,KITA_MTI3_CORE_MONTHLY.xls,2,12,무선통신기기 (812),812,100
+무선통신기기,무선통신,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,20,2,기타무선통신기기부품,,80
+컴퓨터,컴퓨터,KITA_MTI3_CORE_MONTHLY.xls,2,10,컴퓨터 (813),813,100
+가전,,,,,찾지 못함,,0
+자동차,자동차,KITA_MTI3_CORE_MONTHLY.xls,2,4,자동차 (741),741,100
+자동차,자동차,KITA_MTI3_CORE_MONTHLY.xls,2,6,자동차부품 (742),742,100
+자동차,승용차,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,8,2,내연기관 승용차(신차),,30
+자동차,자동차,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,12,2,자동차부품,,80
+자동차,승용차,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,13,2,하이브리드 승용차(신차),,30
+자동차,자동차,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,17,2,자동차휘발유,,80
+자동차,승용차,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,21,2,전기 승용차(신차),,30
+자동차,승용차,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,23,2,내연기관 승용차(중고차),,30
+자동차부품,자동차부품,KITA_MTI3_CORE_MONTHLY.xls,2,6,자동차부품 (742),742,100
+자동차부품,자동차부품,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,12,2,자동차부품,,180
+선박,선박,KITA_MTI3_CORE_MONTHLY.xls,2,8,선박해양구조물및부품 (746),746,100
+일반기계,,,,,찾지 못함,,0
+석유제품,,,,,찾지 못함,,0
+석유화학,,,,,찾지 못함,,0
+이차전지,,,,,찾지 못함,,0
+철강,,,,,찾지 못함,,0
+비철금속,,,,,찾지 못함,,0
+전기기기,,,,,찾지 못함,,0
+바이오헬스,바이오,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,22,2,바이오의약품,,30
+농수산식품,,,,,찾지 못함,,0
+화장품,화장품,KITA_MTI_INDUSTRY_EXPORT_DATA.xls,18,2,"메이크업, 기초화장품",,80
+생활용품,,,,,찾지 못함,,0
+섬유,,,,,찾지 못함,,0

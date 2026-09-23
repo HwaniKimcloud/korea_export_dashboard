@@ -1,0 +1,2 @@
+﻿QC기준월,공식산업수,공식HSK10수,공식MTI6수,Master_HSK_MTI중복,Master_HSK_산업중복,Master_MTI_산업중복,월별기간수,모든월_20산업,월별결측치수,월별중복행수,KITA독립검증산업수,KITA검증산업_AllPass,HS_Universe_Coverage_%,전체수출_ScopeGap_USD,Master미포함_활성HSK10,Master미포함_USD,MasterStructure_PASS,MonthlyIntegrity_PASS,UniverseCoverage_PASS,MappingCoverage_PASS,PRODUCTION_READY
+2026-07-01,20,8168,1038,0,0,0,19,True,0,0,5,True,99.96534314134864,34296115.0,1.0,4112572.0,True,True,True,True,True
